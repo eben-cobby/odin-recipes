@@ -1,0 +1,25 @@
+body {
+  font-family: Georgia, Tahoma, sans-serif;
+
+}
+
+img {
+  height: 300px;
+  width: auto;
+}
+
+.sub-heading {
+  color: white;
+  background-color: darkcyan;
+  font-size: 24px;
+}
+
+a {
+  font-size: 18px;
+}
+
+.home {
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
